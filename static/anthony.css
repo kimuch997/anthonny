@@ -1,0 +1,33 @@
+.footer-row{
+    height: 130vh;
+    background-color: black;
+    background-size: cover ;
+    display: flex;
+    justify-content: right;
+}
+.CHF{
+    color: white;
+    padding-top: 40%;
+    text-align: unset;
+    padding-left: 10%;
+
+}
+.copyright{
+    justify-content: center;
+    display: flex;
+}
+.p1{
+    color: white;
+}
+.picsconnected{
+    text-decoration-color: white;
+}
+.h3{
+    font-weight: bold;
+
+}
+.intro-image{
+    margin-left: 5%;
+    padding-bottom:0%;
+}
+
